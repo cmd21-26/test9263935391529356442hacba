@@ -25,6 +25,8 @@
     "vm": "^0.1.0",
     "wa-sticker-formatter": "^4.3.2",
     "moment-timezone": "latest",
+    "api-dylux" : "1.8.5",
+    "yt-search" : "2.11.1",
     "file_size_url": "^1.0.4",
     "@dark-yasiya/yt-dl.js": "latest"
 
